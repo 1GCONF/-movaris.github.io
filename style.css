@@ -1,0 +1,21 @@
+*{
+   padding: 0;
+   margin: 0;
+}
+header{
+   display: flex;
+   flex-wrap: wrap;
+   width: 100%;
+   background-color: 000000;
+   opacity: 100;
+}
+.logoWrapper{
+   display: flex;
+   
+   width: 100%;
+}
+.logoWrapper img{
+   background-color:black;
+   opacity: 50;
+   width: 100%;
+}
